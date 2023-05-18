@@ -1,2 +1,4 @@
 # Rainbow-poems
-songs about rainbow
+Songs about rainbow.
+This is a C major.
+Ability to concentrate.
